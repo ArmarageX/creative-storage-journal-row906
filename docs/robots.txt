@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://armaragex.github.io/creative-storage-journal-row906/sitemap.xml
